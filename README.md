@@ -8,5 +8,5 @@ Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.c
 ![Calculadora](https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/calculadora-hcode.jpg?alt=media&token=5406aa3f-b965-401c-9b4e-654609c78b33)
 
 <p>
-    <img width="460" height="300" src="scripts\assets\calculadora.jpg">
+    <img width="100%" height="100%" src="scripts\assets\calculadora.jpg">
 </p>
