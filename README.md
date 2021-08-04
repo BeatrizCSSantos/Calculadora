@@ -6,7 +6,7 @@ Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.c
 
 ### Projeto 
 <p>
-    <img width="100%" height="100%" src="scripts\assets\calculadora.jpg">
+    <img width="60%" height="60%" src="scripts\assets\calculadora.jpg">
 </p>
 
 
